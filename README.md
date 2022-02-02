@@ -1,2 +1,2 @@
-# 006-jest
+# jest
  Learning test script
